@@ -1,0 +1,359 @@
+fileFormatVersion: 2
+guid: 40f608672b135f84da1b66b911e5d221
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8946138363510526688
+    second: Stage_1_Map_0
+  - first:
+      213: 3652099561361959413
+    second: Stage_1_Map_1
+  - first:
+      213: 8469270107061564930
+    second: Stage_1_Map_2
+  - first:
+      213: -6764725514761738321
+    second: Stage_1_Map_3
+  - first:
+      213: 5784274724141116700
+    second: Stage_1_Map_4
+  - first:
+      213: -184364482808830647
+    second: Stage_1_Map_5
+  - first:
+      213: -9086894360058266636
+    second: Stage_1_Map_6
+  - first:
+      213: 6041410939503659727
+    second: Stage_1_Map_7
+  - first:
+      213: 3506300418726099656
+    second: Stage_1_Map_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stage_1_Map_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1314
+        width: 1000
+        height: 655
+      alignment: 9
+      pivot: {x: 0.4971177, y: 0.20668964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92649e8c6482d5248843ebfbf9456f60
+      internalID: 8946138363510526688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_1_Map_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 746
+        width: 1000
+        height: 541
+      alignment: 9
+      pivot: {x: 0.49385935, y: 0.33621752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d004126c23b01fd45b487dd6afe1200b
+      internalID: 3652099561361959413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_1_Map_2
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 718
+        width: 112
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec1539c2dbe0324d83b05a8adeaaa85
+      internalID: 8469270107061564930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_1_Map_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 589
+        width: 61
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a35bea9b5b6ab4a80777188eb6b04c
+      internalID: -6764725514761738321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_1_Map_4
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 593
+        width: 50
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eeb953c7daf5e143a5514e688f9618c
+      internalID: 5784274724141116700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_1_Map_5
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 591
+        width: 79
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a556bf6f77b77c3429ac26f7e1b375ff
+      internalID: -184364482808830647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_1_Map_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 1000
+        height: 178
+      alignment: 9
+      pivot: {x: 0.50288224, y: 0.9625522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0d2772f9f35cd41b1de4f5898af77b
+      internalID: -9086894360058266636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_1_Map_7
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 134
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3a477adf4b7e84193ed145daa6a82f
+      internalID: 6041410939503659727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage_1_Map_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1000
+        height: 117
+      alignment: 9
+      pivot: {x: 0.50037605, y: 1.0216267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5ea757d58310c44a4761740ebd2757
+      internalID: 3506300418726099656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Stage_1_Map_1: 3652099561361959413
+      Stage_1_Map_0: 8946138363510526688
+      Stage_1_Map_5: -184364482808830647
+      Stage_1_Map_8: 3506300418726099656
+      Stage_1_Map_6: -9086894360058266636
+      Stage_1_Map_4: 5784274724141116700
+      Stage_1_Map_3: -6764725514761738321
+      Stage_1_Map_7: 6041410939503659727
+      Stage_1_Map_2: 8469270107061564930
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

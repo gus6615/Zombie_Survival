@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: 5dd88176e0237d440a4aa3d1a89bc37c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6901226154837734346
+    second: Etc_UI_0
+  - first:
+      213: 6110739003753374194
+    second: Etc_UI_1
+  - first:
+      213: 8283851478566063093
+    second: Etc_UI_2
+  - first:
+      213: -2747809315160204197
+    second: Etc_UI_3
+  - first:
+      213: 8899972020755828495
+    second: Etc_UI_4
+  - first:
+      213: 5096133961578747627
+    second: Etc_UI_5
+  - first:
+      213: -5702441992642021048
+    second: Etc_UI_6
+  - first:
+      213: 4262061293318540876
+    second: Etc_UI_7
+  - first:
+      213: -2155893789264130263
+    second: Etc_UI_0
+  - first:
+      213: 707375201952200666
+    second: Etc_UI_1
+  - first:
+      213: 2002576592006270912
+    second: Etc_UI_2
+  - first:
+      213: 3092582608371826517
+    second: Etc_UI_4
+  - first:
+      213: 2830749412264467412
+    second: Etc_UI_5
+  - first:
+      213: 7268020429292807554
+    second: Etc_UI_3
+  - first:
+      213: -8016036802238972985
+    second: Etc_UI_6
+  - first:
+      213: -5962618170898590267
+    second: Etc_UI_7
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Etc_UI_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 52
+        width: 148
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fc075650ab412e0800000000000000
+      internalID: 6901226154837734346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Etc_UI_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 49
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7f7439ff911d900800000000000000
+      internalID: 6110739003753374194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Etc_UI_2
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 49
+        width: 147
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfcb02ecc49acb10800000000000000
+      internalID: 8283851478566063093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Etc_UI_4
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 50
+        width: 153
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fbd824f7f0bea20800000000000000
+      internalID: 8899972020755828495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Etc_UI_5
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 40
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db5b2ea797d84720800000000000000
+      internalID: 5096133961578747627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Etc_UI_3
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 50
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285a744a2123dd460800000000000000
+      internalID: -2747809315160204197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Etc_UI_6
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 51
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb7618cff051c090800000000000000
+      internalID: -5702441992642021048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Etc_UI_7
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 49
+        width: 147
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5dc486d56804da0800000000000000
+      internalID: 4262061293318540876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Etc_UI_2: 8283851478566063093
+      Etc_UI_7: 4262061293318540876
+      Etc_UI_4: 8899972020755828495
+      Etc_UI_1: 6110739003753374194
+      Etc_UI_6: -5702441992642021048
+      Etc_UI_5: 5096133961578747627
+      Etc_UI_3: -2747809315160204197
+      Etc_UI_0: 6901226154837734346
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

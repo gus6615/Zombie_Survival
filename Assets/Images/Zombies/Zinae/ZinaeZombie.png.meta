@@ -1,0 +1,694 @@
+fileFormatVersion: 2
+guid: bd2e2c22f77552944a3869acb778c90c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2249983425261433365
+    second: ZinaeZombie_0
+  - first:
+      213: 8916366574148544296
+    second: ZinaeZombie_1
+  - first:
+      213: -7454739184650582934
+    second: ZinaeZombie_2
+  - first:
+      213: 7210718345957248768
+    second: ZinaeZombie_3
+  - first:
+      213: 4040798994432093580
+    second: ZinaeZombie_4
+  - first:
+      213: -7295535886601191144
+    second: ZinaeZombie_5
+  - first:
+      213: -5641309662343670467
+    second: ZinaeZombie_6
+  - first:
+      213: -8331354905894743634
+    second: ZinaeZombie_7
+  - first:
+      213: -211330749001267183
+    second: ZinaeZombie_8
+  - first:
+      213: -6492911189098033418
+    second: ZinaeZombie_9
+  - first:
+      213: -7590002984219372707
+    second: ZinaeZombie_10
+  - first:
+      213: 2518681298129375612
+    second: ZinaeZombie_11
+  - first:
+      213: -5169587178524696421
+    second: ZinaeZombie_12
+  - first:
+      213: -1310280067411316525
+    second: ZinaeZombie_13
+  - first:
+      213: 2767030360014257708
+    second: ZinaeZombie_14
+  - first:
+      213: -8344017386303208373
+    second: ZinaeZombie_15
+  - first:
+      213: -988177161982698868
+    second: ZinaeZombie_16
+  - first:
+      213: 4642533326125853941
+    second: ZinaeZombie_17
+  - first:
+      213: 2214789245784459513
+    second: ZinaeZombie_18
+  - first:
+      213: -6305930736706877774
+    second: ZinaeZombie_19
+  - first:
+      213: -366446028916607513
+    second: ZinaeZombie_0
+  - first:
+      213: 2808480780802042772
+    second: ZinaeZombie_1
+  - first:
+      213: 8484126242789046824
+    second: ZinaeZombie_2
+  - first:
+      213: 7124196831842637667
+    second: ZinaeZombie_3
+  - first:
+      213: 3306876272270478804
+    second: ZinaeZombie_4
+  - first:
+      213: 3061489110813808615
+    second: ZinaeZombie_5
+  - first:
+      213: -5214585018821976658
+    second: ZinaeZombie_6
+  - first:
+      213: 3571731821496826412
+    second: ZinaeZombie_7
+  - first:
+      213: 4752368746807489470
+    second: ZinaeZombie_8
+  - first:
+      213: 6233586020546859017
+    second: ZinaeZombie_9
+  - first:
+      213: 1821726941993864335
+    second: ZinaeZombie_10
+  - first:
+      213: -8320434807410020714
+    second: ZinaeZombie_11
+  - first:
+      213: 7931495500284294043
+    second: ZinaeZombie_12
+  - first:
+      213: 6755062664431478053
+    second: ZinaeZombie_13
+  - first:
+      213: -8993000422915437411
+    second: ZinaeZombie_14
+  - first:
+      213: 4477726368920958249
+    second: ZinaeZombie_15
+  - first:
+      213: 5558004280543210251
+    second: ZinaeZombie_16
+  - first:
+      213: -1715373827916613761
+    second: ZinaeZombie_17
+  - first:
+      213: -6643988278064316629
+    second: ZinaeZombie_18
+  - first:
+      213: 7532533764153578347
+    second: ZinaeZombie_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ZinaeZombie_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 320
+        width: 45
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5b219374f1aeaf0800000000000000
+      internalID: 2249983425261433365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZinaeZombie_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 318
+        width: 49
+        height: 82
+      alignment: 9
+      pivot: {x: 0.52040815, y: 0.51829267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ba732e36ab9f620800000000000000
+      internalID: 8916366574148544296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZinaeZombie_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 307
+        width: 86
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50537634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ab203fddbadb570800000000000000
+      internalID: -7454739184650582934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZinaeZombie_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 287
+        width: 84
+        height: 113
+      alignment: 9
+      pivot: {x: 0.45238096, y: 0.50442475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36791ffd54b3ed260800000000000000
+      internalID: 7210718345957248768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZinaeZombie_4
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 263
+        width: 84
+        height: 133
+      alignment: 9
+      pivot: {x: 0.49404764, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd89d4f27264ed20800000000000000
+      internalID: 4040798994432093580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZinaeZombie_5
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 249
+        width: 74
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49657533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e798c530289c7a20800000000000000
+      internalID: -7295535886601191144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZinaeZombie_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 219
+        width: 100
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.505618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadda0ead8212a7b0800000000000000
+      internalID: -5641309662343670467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZinaeZombie_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 241
+        width: 109
+        height: 55
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2af645fa27519130800000000000000
+      internalID: -8331354905894743634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZinaeZombie_8
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 131
+        width: 89
+        height: 136
+      alignment: 9
+      pivot: {x: 0.49438202, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3f023323ec3f140800000000000000
+      internalID: -211330749001267183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZinaeZombie_9
+      rect:
+        serializedVersion: 2
+        x: 455.26523
+        y: 211
+        width: 93.00003
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5079006, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900598f6575228650800000000000000
+      internalID: -6492911189098033418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZinaeZombie_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 112.49999
+        width: 88
+        height: 113.00001
+      alignment: 9
+      pivot: {x: 0.5056818, y: 0.4823009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c8d477003184910800000000000000
+      internalID: -7590002984219372707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZinaeZombie_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 172
+        width: 114
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49137932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ea78f40a0e78c80800000000000000
+      internalID: 2518681298129375612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZinaeZombie_12
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 200
+        width: 97
+        height: 44
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.48863637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93fd087225521e60800000000000000
+      internalID: -5169587178524696421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZinaeZombie_13
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 17
+        width: 92
+        height: 111
+      alignment: 9
+      pivot: {x: 0.49456522, y: 0.4954955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52521f414bdcebd50800000000000000
+      internalID: -1310280067411316525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZinaeZombie_14
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 106
+        width: 96
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5052084, y: 0.49418604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c003723c1723380800000000000000
+      internalID: 2767030360014257708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZinaeZombie_15
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 102
+        width: 59
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925fee49864142e30800000000000000
+      internalID: -8344017386303208373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZinaeZombie_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1.9999962
+        width: 58
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0be0e1127ff12d40800000000000000
+      internalID: -988177161982698868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZinaeZombie_17
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 39
+        width: 87
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77370a8794c138e0800000000000000
+      internalID: 4642533326125853941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZinaeZombie_18
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 10
+        width: 96
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ffd1accdfcbc3a0800000000000000
+      internalID: 2214789245784459513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZinaeZombie_19
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2
+        width: 69
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5072464, y: 0.49029127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b639207ac8fe88860800000000000000
+      internalID: -6305930736706877774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ZinaeZombie_17: 4642533326125853941
+      ZinaeZombie_12: -5169587178524696421
+      ZinaeZombie_9: -6492911189098033418
+      ZinaeZombie_18: 2214789245784459513
+      ZinaeZombie_13: -1310280067411316525
+      ZinaeZombie_0: 2249983425261433365
+      ZinaeZombie_11: 2518681298129375612
+      ZinaeZombie_19: -6305930736706877774
+      ZinaeZombie_7: -8331354905894743634
+      ZinaeZombie_14: 2767030360014257708
+      ZinaeZombie_3: 7210718345957248768
+      ZinaeZombie_16: -988177161982698868
+      ZinaeZombie_4: 4040798994432093580
+      ZinaeZombie_6: -5641309662343670467
+      ZinaeZombie_10: -7590002984219372707
+      ZinaeZombie_15: -8344017386303208373
+      ZinaeZombie_2: -7454739184650582934
+      ZinaeZombie_5: -7295535886601191144
+      ZinaeZombie_8: -211330749001267183
+      ZinaeZombie_1: 8916366574148544296
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 637355611611495287
+  assetBundleName: 
+  assetBundleVariant: 

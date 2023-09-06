@@ -1,0 +1,680 @@
+fileFormatVersion: 2
+guid: 5784acafed6919a4e8494c4fa12ce551
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1520660880074898571
+    second: FarmingUI_0
+  - first:
+      213: -7116972555649979495
+    second: FarmingUI_1
+  - first:
+      213: -8436224852630717225
+    second: FarmingUI_2
+  - first:
+      213: -8862965113594804337
+    second: FarmingUI_3
+  - first:
+      213: -2321692050002617215
+    second: FarmingUI_4
+  - first:
+      213: 6574636350503030128
+    second: FarmingUI_5
+  - first:
+      213: -9051330432780240465
+    second: FarmingUI_6
+  - first:
+      213: 2534502915792565233
+    second: FarmingUI_7
+  - first:
+      213: 7934501859654828551
+    second: FarmingUI_8
+  - first:
+      213: -880156162938646517
+    second: FarmingUI_2
+  - first:
+      213: -1759781337707787515
+    second: FarmingUI_4
+  - first:
+      213: -5752504228556563463
+    second: FarmingUI_5
+  - first:
+      213: 3296230413038664079
+    second: FarmingUI_6
+  - first:
+      213: -4756254135564665839
+    second: FarmingUI_7
+  - first:
+      213: 6751062449576212253
+    second: FarmingUI_9
+  - first:
+      213: 2067317499306107462
+    second: FarmingUI_10
+  - first:
+      213: -9087837418520027540
+    second: FarmingUI_11
+  - first:
+      213: -6226223094363284725
+    second: FarmingUI_12
+  - first:
+      213: 2511443097059990796
+    second: FarmingUI_13
+  - first:
+      213: 8397443379483573927
+    second: FarmingUI_14
+  - first:
+      213: 2640918928567956213
+    second: FarmingUI_15
+  - first:
+      213: 4038756366914829492
+    second: FarmingUI_16
+  - first:
+      213: -6053003407679063869
+    second: FarmingUI_17
+  - first:
+      213: -4210630199267697241
+    second: FarmingUI_18
+  - first:
+      213: -510752804204177769
+    second: FarmingUI_19
+  - first:
+      213: 6312804418748725290
+    second: FarmingUI_20
+  - first:
+      213: -1565672034400375052
+    second: FarmingUI_0
+  - first:
+      213: -4893116073850586646
+    second: FarmingUI_1
+  - first:
+      213: -1990308668611254340
+    second: FarmingUI_3
+  - first:
+      213: -770642597646907846
+    second: FarmingUI_10
+  - first:
+      213: -4421275161152259135
+    second: FarmingUI_11
+  - first:
+      213: -2896521876006982708
+    second: FarmingUI_13
+  - first:
+      213: 303529085148207540
+    second: FarmingUI_14
+  - first:
+      213: -7158164829802523926
+    second: FarmingUI_15
+  - first:
+      213: 1324149503544250458
+    second: FarmingUI_17
+  - first:
+      213: -2523698005824872313
+    second: FarmingUI_18
+  - first:
+      213: -4274261114474165320
+    second: FarmingUI_19
+  - first:
+      213: 5759957852716238260
+    second: FarmingUI_21
+  - first:
+      213: 6989964838143422302
+    second: FarmingUI_22
+  - first:
+      213: -1983245582691427759
+    second: FarmingUI_23
+  - first:
+      213: -8607233345672915405
+    second: FarmingUI_24
+  - first:
+      213: 3000360450451649108
+    second: FarmingUI_25
+  - first:
+      213: -6409512412175464815
+    second: FarmingUI_26
+  - first:
+      213: -4987770709976516745
+    second: FarmingUI_27
+  - first:
+      213: 1462561391217185425
+    second: FarmingUI_28
+  - first:
+      213: 2729147209042466765
+    second: FarmingUI_29
+  - first:
+      213: 8992994412440275757
+    second: FarmingUI_30
+  - first:
+      213: -7116335802429692662
+    second: FarmingUI_31
+  - first:
+      213: 7688526834808983113
+    second: FarmingUI_32
+  - first:
+      213: 4089517887789984276
+    second: FarmingUI_33
+  - first:
+      213: 1803511418192455808
+    second: FarmingUI_34
+  - first:
+      213: -1641749282541256318
+    second: FarmingUI_35
+  - first:
+      213: 9221331514989831925
+    second: FarmingUI_36
+  - first:
+      213: 6809984943691345049
+    second: FarmingUI_37
+  - first:
+      213: -880566863411663635
+    second: FarmingUI_8
+  - first:
+      213: 8198169536073330186
+    second: FarmingUI_9
+  - first:
+      213: -8393668546338722638
+    second: FarmingUI_12
+  - first:
+      213: -1825527291147252908
+    second: FarmingUI_38
+  - first:
+      213: -4521027083918949246
+    second: FarmingUI_39
+  - first:
+      213: 8589675706928168382
+    second: FarmingUI_40
+  - first:
+      213: 4981640027528803300
+    second: FarmingUI_41
+  - first:
+      213: -1810261770575570903
+    second: FarmingUI_42
+  - first:
+      213: -4947620284310294344
+    second: FarmingUI_43
+  - first:
+      213: -1296442960409715812
+    second: FarmingUI_44
+  - first:
+      213: 759712485289990670
+    second: FarmingUI_45
+  - first:
+      213: -9193433911053857628
+    second: FarmingUI_46
+  - first:
+      213: 994097684366958993
+    second: FarmingUI_47
+  - first:
+      213: -9157534669614010884
+    second: FarmingUI_48
+  - first:
+      213: -657582998620524053
+    second: FarmingUI_49
+  - first:
+      213: -1795622029967248608
+    second: FarmingUI_50
+  - first:
+      213: 4637204234043288133
+    second: FarmingUI_51
+  - first:
+      213: 4028814783030776676
+    second: FarmingUI_52
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FarmingUI_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 890
+        width: 206
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5738d438cf685eae0800000000000000
+      internalID: -1520660880074898571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FarmingUI_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 708
+        width: 311
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b67400b2f6b3d90800000000000000
+      internalID: -7116972555649979495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FarmingUI_2
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 938
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcbf9d81328cea80800000000000000
+      internalID: -8436224852630717225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FarmingUI_3
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 363
+        width: 608
+        height: 482
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87808bef2c600580800000000000000
+      internalID: -8862965113594804337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FarmingUI_4
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 383
+        width: 144
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cdeb1a161b7cfd0800000000000000
+      internalID: -2321692050002617215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FarmingUI_5
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 4
+        width: 638
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d8a174deccd3b50800000000000000
+      internalID: 6574636350503030128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FarmingUI_6
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 171
+        width: 167
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa973796de6336280800000000000000
+      internalID: -9051330432780240465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FarmingUI_7
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 11
+        width: 167
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3f10a39fc5c2320800000000000000
+      internalID: 2534502915792565233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FarmingUI_8
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 11
+        width: 168
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702076e07630d1e60800000000000000
+      internalID: 7934501859654828551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FarmingUI_9
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 14
+        width: 50
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17f77b778790bd50800000000000000
+      internalID: 6751062449576212253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FarmingUI_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 608
+        width: 315
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642e610005690bc10800000000000000
+      internalID: 2067317499306107462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FarmingUI_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 507
+        width: 314
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e5c9c640481e180800000000000000
+      internalID: -9087837418520027540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FarmingUI_12
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 897
+        width: 850
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b942865130899a0800000000000000
+      internalID: -6226223094363284725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FarmingUI_13
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 858
+        width: 846
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d1ed9c0307ad220800000000000000
+      internalID: 2511443097059990796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FarmingUI_14
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 23
+        width: 325
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aef2971346b98470800000000000000
+      internalID: 8397443379483573927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FarmingUI_0: -1520660880074898571
+      FarmingUI_6: -9051330432780240465
+      FarmingUI_1: -7116972555649979495
+      FarmingUI_3: -8862965113594804337
+      FarmingUI_13: 2511443097059990796
+      FarmingUI_14: 8397443379483573927
+      FarmingUI_4: -2321692050002617215
+      FarmingUI_8: 7934501859654828551
+      FarmingUI_5: 6574636350503030128
+      FarmingUI_9: 6751062449576212253
+      FarmingUI_7: 2534502915792565233
+      FarmingUI_12: -6226223094363284725
+      FarmingUI_2: -8436224852630717225
+      FarmingUI_11: -9087837418520027540
+      FarmingUI_10: 2067317499306107462
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

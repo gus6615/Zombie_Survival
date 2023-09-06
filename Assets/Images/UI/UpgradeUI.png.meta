@@ -1,0 +1,430 @@
+fileFormatVersion: 2
+guid: bf01f5e1a1c66c643aa70fbe75e68324
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6858755736613675321
+    second: UpgradeUI_0
+  - first:
+      213: -2837101144597046438
+    second: UpgradeUI_1
+  - first:
+      213: 7836696766237946666
+    second: UpgradeUI_2
+  - first:
+      213: -1863747271543605840
+    second: UpgradeUI_0
+  - first:
+      213: -3237396982372898063
+    second: UpgradeUI_1
+  - first:
+      213: 7027830363650201342
+    second: UpgradeUI_2
+  - first:
+      213: 7003074426054646032
+    second: UpgradeUI_3
+  - first:
+      213: 6710279688591786819
+    second: UpgradeUI_3
+  - first:
+      213: 2518679120274603961
+    second: UpgradeUI_4
+  - first:
+      213: -3337616411990702402
+    second: UpgradeUI_5
+  - first:
+      213: 6200257400022853759
+    second: UpgradeUI_4
+  - first:
+      213: -355946872049852739
+    second: UpgradeUI_5
+  - first:
+      213: -4620647874989612824
+    second: UpgradeUI_6
+  - first:
+      213: -2200784206250835724
+    second: UpgradeUI_7
+  - first:
+      213: -2676521697445185013
+    second: UpgradeUI_6
+  - first:
+      213: -1412163880346557561
+    second: UpgradeUI_7
+  - first:
+      213: -6668694124829134361
+    second: UpgradeUI_8
+  - first:
+      213: -964405755638741490
+    second: UpgradeUI_9
+  - first:
+      213: -4127612350687961457
+    second: UpgradeUI_8
+  - first:
+      213: -1987401365042584420
+    second: UpgradeUI_9
+  - first:
+      213: 7626023188040688503
+    second: UpgradeUI_10
+  - first:
+      213: 94743880721859194
+    second: UpgradeUI_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UpgradeUI_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 971
+        width: 320
+        height: 850
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b53a882bb3a226e0800000000000000
+      internalID: 6858755736613675321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeUI_1
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1647
+        width: 151
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1faedb4d8947213d0800000000000000
+      internalID: -2837101144597046438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeUI_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 718
+        width: 545
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343480ef2d3bf1d50800000000000000
+      internalID: 7003074426054646032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeUI_4
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 575
+        width: 1005
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f786954414dbb0650800000000000000
+      internalID: 2518679120274603961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeUI_5
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 604
+        width: 259
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe9e8ca43c6f0bf0800000000000000
+      internalID: -3337616411990702402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeUI_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 568
+        width: 564
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a772e62b51bdad0800000000000000
+      internalID: -4620647874989612824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeUI_7
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 295
+        width: 1005
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7836e4bce6cf66ce0800000000000000
+      internalID: -2200784206250835724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeUI_8
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 325
+        width: 259
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e9ab2af66c7b6c0800000000000000
+      internalID: -6668694124829134361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeUI_9
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 16
+        width: 1005
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94a28afcf45b64e0800000000000000
+      internalID: -964405755638741490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeUI_2
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 882
+        width: 1157
+        height: 1156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6131f0b7ed78160800000000000000
+      internalID: 7836696766237946666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpgradeUI_10
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 45
+        width: 259
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72811bbe09905100800000000000000
+      internalID: 7626023188040688503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UpgradeUI_8: -6668694124829134361
+      UpgradeUI_6: -4620647874989612824
+      UpgradeUI_5: -3337616411990702402
+      UpgradeUI_2: 7836696766237946666
+      UpgradeUI_10: 7626023188040688503
+      UpgradeUI_3: 7003074426054646032
+      UpgradeUI_4: 2518679120274603961
+      UpgradeUI_9: -964405755638741490
+      UpgradeUI_7: -2200784206250835724
+      UpgradeUI_0: 6858755736613675321
+      UpgradeUI_1: -2837101144597046438
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

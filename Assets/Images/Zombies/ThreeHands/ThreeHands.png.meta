@@ -1,0 +1,484 @@
+fileFormatVersion: 2
+guid: b3b6497fd71819e44ba992e7378e34b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7325128030633870199
+    second: ThreeHands_0
+  - first:
+      213: -7241004537754469101
+    second: ThreeHands_1
+  - first:
+      213: 1951842836959080028
+    second: ThreeHands_2
+  - first:
+      213: 862477534181793289
+    second: ThreeHands_3
+  - first:
+      213: -8618171869006707825
+    second: ThreeHands_4
+  - first:
+      213: -8472828524372729610
+    second: ThreeHands_5
+  - first:
+      213: 7892183689703477880
+    second: ThreeHands_6
+  - first:
+      213: -6119437724674747831
+    second: ThreeHands_7
+  - first:
+      213: -2313933932428728106
+    second: ThreeHands_8
+  - first:
+      213: -1775805576390659297
+    second: ThreeHands_9
+  - first:
+      213: 4555948811532909315
+    second: ThreeHands_10
+  - first:
+      213: 3074177819220825621
+    second: ThreeHands_11
+  - first:
+      213: 4133477749575686829
+    second: ThreeHands_12
+  - first:
+      213: 7580779062228623258
+    second: ThreeHands_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ThreeHands_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 942
+        width: 79
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.527027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf78922353e4f34da861d9167a07259
+      internalID: 7325128030633870199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreeHands_1
+      rect:
+        serializedVersion: 2
+        x: 158.00002
+        y: 817
+        width: 131.99998
+        height: 177
+      alignment: 9
+      pivot: {x: 0.49999994, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ee5779a1813fa49b81920563d2a16b
+      internalID: -7241004537754469101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreeHands_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 784
+        width: 89
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839af1016f10a1a4b9e305b581d34811
+      internalID: 1951842836959080028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreeHands_3
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 739
+        width: 146
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a0dae16f1de684b8a277e7b4c6613f
+      internalID: 862477534181793289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreeHands_4
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 691
+        width: 183
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49726775, y: 0.49264705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a2761d3b4f86b4a9b51a3b442e1c90
+      internalID: -8618171869006707825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreeHands_5
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 615
+        width: 144
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50476193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d1a54fabfac2a4b8ce47991ff85339
+      internalID: -8472828524372729610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreeHands_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 439
+        width: 145
+        height: 110
+      alignment: 9
+      pivot: {x: 0.47586206, y: 0.50454545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afd4441e073367409e6abcfd62a7919
+      internalID: 7892183689703477880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreeHands_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 343
+        width: 90
+        height: 98
+      alignment: 9
+      pivot: {x: 0.49444446, y: 0.49489796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1281aa05c036c054490dfdf6f3d43dcf
+      internalID: -6119437724674747831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreeHands_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 257
+        width: 103
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58821818d66b3c2419588b41a160e061
+      internalID: -2313933932428728106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreeHands_9
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 193
+        width: 68
+        height: 169
+      alignment: 9
+      pivot: {x: 0.49264705, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06886ffc17937cf43be9e178b5b8e444
+      internalID: -1775805576390659297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreeHands_10
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 179
+        width: 112
+        height: 149
+      alignment: 9
+      pivot: {x: 0.49553573, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f12ecba10dae9b40977665438332da0
+      internalID: 4555948811532909315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreeHands_11
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 142
+        width: 77
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1eae972bb3456e40897b69d0281de23
+      internalID: 3074177819220825621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreeHands_12
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 34
+        width: 82
+        height: 216
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.5023148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2ec40f8ed94d64f99182d40d15c819
+      internalID: 4133477749575686829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThreeHands_13
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 0
+        width: 47
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5531915, y: 0.47841728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff36b512e795b0489ba8dcf46fe6bfc
+      internalID: 7580779062228623258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ThreeHands_4: -8618171869006707825
+      ThreeHands_11: 3074177819220825621
+      ThreeHands_6: 7892183689703477880
+      ThreeHands_3: 862477534181793289
+      ThreeHands_8: -2313933932428728106
+      ThreeHands_12: 4133477749575686829
+      ThreeHands_9: -1775805576390659297
+      ThreeHands_13: 7580779062228623258
+      ThreeHands_2: 1951842836959080028
+      ThreeHands_7: -6119437724674747831
+      ThreeHands_0: 7325128030633870199
+      ThreeHands_5: -8472828524372729610
+      ThreeHands_10: 4555948811532909315
+      ThreeHands_1: -7241004537754469101
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 637127499138022896
+  assetBundleName: 
+  assetBundleVariant: 

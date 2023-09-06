@@ -1,0 +1,359 @@
+fileFormatVersion: 2
+guid: a2d77853ea26ca04eb4c6b1930c4feb3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2508547929188634787
+    second: ShelterUI-MainIcon_0
+  - first:
+      213: -8671140218968769549
+    second: ShelterUI-MainIcon_1
+  - first:
+      213: -7163843758489224098
+    second: ShelterUI-MainIcon_2
+  - first:
+      213: -4592356036161137142
+    second: ShelterUI-MainIcon_3
+  - first:
+      213: -358889613310009743
+    second: ShelterUI-MainIcon_4
+  - first:
+      213: 493188609109965273
+    second: ShelterUI-MainIcon_0
+  - first:
+      213: -2010246457276752654
+    second: ShelterUI-MainIcon_1
+  - first:
+      213: -7306810042707182412
+    second: ShelterUI-MainIcon_2
+  - first:
+      213: 493626067008713855
+    second: ShelterUI-MainIcon_3
+  - first:
+      213: -7881519308214584537
+    second: ShelterUI-MainIcon_4
+  - first:
+      213: 4895222862967460670
+    second: ShelterUI-MainIcon_5
+  - first:
+      213: -769895881462145285
+    second: ShelterUI-MainIcon_6
+  - first:
+      213: -5772888372254619274
+    second: ShelterUI-MainIcon_7
+  - first:
+      213: -4725370500993534751
+    second: ShelterUI-MainIcon_8
+  - first:
+      213: -7632390704007756575
+    second: ShelterUI-MainIcon_9
+  - first:
+      213: 7631394256910830151
+    second: ShelterUI-MainIcon_10
+  - first:
+      213: 7449970315585877113
+    second: ShelterUI-MainIcon_11
+  - first:
+      213: -2784357917116209411
+    second: ShelterUI-MainIcon_12
+  - first:
+      213: -9035827140101447132
+    second: ShelterUI-MainIcon_13
+  - first:
+      213: -1684655652057554419
+    second: ShelterUI-MainIcon_14
+  - first:
+      213: 4656344858980738331
+    second: ShelterUI-MainIcon_15
+  - first:
+      213: -7137512037873419865
+    second: ShelterUI-MainIcon_16
+  - first:
+      213: -2696113355603400738
+    second: ShelterUI-MainIcon_17
+  - first:
+      213: 7205683520078464740
+    second: ShelterUI-MainIcon_18
+  - first:
+      213: 8169380668035886386
+    second: ShelterUI-MainIcon_19
+  - first:
+      213: 273727207524367303
+    second: ShelterUI-MainIcon_20
+  - first:
+      213: -3382678977200405842
+    second: ShelterUI-MainIcon_21
+  - first:
+      213: -2820995767352271943
+    second: ShelterUI-MainIcon_22
+  - first:
+      213: -4013804571439154964
+    second: ShelterUI-MainIcon_23
+  - first:
+      213: -7629218023394014941
+    second: ShelterUI-MainIcon_24
+  - first:
+      213: -1960519987999888558
+    second: ShelterUI-MainIcon_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShelterUI-MainIcon_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 46
+        width: 101
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9b44d4d6828d600800000000000000
+      internalID: 2508547929188634787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShelterUI-MainIcon_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 39
+        width: 133
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc18037f7b2a14e0800000000000000
+      internalID: -8671140218968769549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShelterUI-MainIcon_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 37
+        width: 115
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc7e23bafef89a90800000000000000
+      internalID: -7163843758489224098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShelterUI-MainIcon_3
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 26
+        width: 111
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f747de7ea46b9d600800000000000000
+      internalID: -4592356036161137142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShelterUI-MainIcon_4
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 23
+        width: 99
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bbc7f72f73f9290800000000000000
+      internalID: -358889613310009743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShelterUI-MainIcon_5
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 59
+        width: 108
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33db8302435fe340800000000000000
+      internalID: 4895222862967460670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ShelterUI-MainIcon_3: -4592356036161137142
+      ShelterUI-MainIcon_5: 4895222862967460670
+      ShelterUI-MainIcon_4: -358889613310009743
+      ShelterUI-MainIcon_1: -8671140218968769549
+      ShelterUI-MainIcon_2: -7163843758489224098
+      ShelterUI-MainIcon_0: 2508547929188634787
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

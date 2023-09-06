@@ -1,0 +1,615 @@
+fileFormatVersion: 2
+guid: cccac5e841966fc4c960fbe2442ccde4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 200580941146508621
+    second: ShopUI_0
+  - first:
+      213: -4253305743693690054
+    second: ShopUI_1
+  - first:
+      213: -4847177833844189951
+    second: ShopUI_2
+  - first:
+      213: -3435497669307610455
+    second: ShopUI_3
+  - first:
+      213: 5421337457469781628
+    second: ShopUI_4
+  - first:
+      213: 5416876044567424710
+    second: ShopUI_5
+  - first:
+      213: -6455431160414833277
+    second: ShopUI_6
+  - first:
+      213: -1671449131386247054
+    second: ShopUI_7
+  - first:
+      213: -5086509178170700530
+    second: ShopUI_8
+  - first:
+      213: 558305639704569858
+    second: ShopUI_9
+  - first:
+      213: -971170185609545144
+    second: ShopUI_10
+  - first:
+      213: -6299957385875882300
+    second: ShopUI_0
+  - first:
+      213: -9075387044206006543
+    second: ShopUI_1
+  - first:
+      213: -3837697563933540451
+    second: ShopUI_3
+  - first:
+      213: -4525496679599672950
+    second: ShopUI_4
+  - first:
+      213: 9164695700520424449
+    second: ShopUI_5
+  - first:
+      213: -2743970895757658766
+    second: ShopUI_6
+  - first:
+      213: 3529899956736346602
+    second: ShopUI_7
+  - first:
+      213: 137197196179151729
+    second: ShopUI_8
+  - first:
+      213: -1332463763977239938
+    second: ShopUI_9
+  - first:
+      213: 7616946804104318898
+    second: ShopUI_11
+  - first:
+      213: 7925918421253389508
+    second: ShopUI_12
+  - first:
+      213: -3431366690749457976
+    second: ShopUI_13
+  - first:
+      213: -2087488572331499485
+    second: ShopUI_14
+  - first:
+      213: 1667295756091335654
+    second: ShopUI_11
+  - first:
+      213: -5759780920186044406
+    second: ShopUI_13
+  - first:
+      213: 4947069154438156840
+    second: ShopUI_14
+  - first:
+      213: -4371546825563899401
+    second: ShopUI_15
+  - first:
+      213: -6156404456921826687
+    second: ShopUI_16
+  - first:
+      213: 4234770895331989004
+    second: ShopUI_2
+  - first:
+      213: 6975010438402124066
+    second: ShopUI_15
+  - first:
+      213: -2931673065506758750
+    second: ShopUI_16
+  - first:
+      213: 6536313787117996285
+    second: ShopUI_17
+  - first:
+      213: -6566481390618488810
+    second: ShopUI_18
+  - first:
+      213: -4739242604632139376
+    second: ShopUI_19
+  - first:
+      213: 8214833493548798761
+    second: ShopUI_20
+  - first:
+      213: 7988390987897976972
+    second: ShopUI_17
+  - first:
+      213: -616637165541687958
+    second: ShopUI_18
+  - first:
+      213: -1387144126313592568
+    second: ShopUI_19
+  - first:
+      213: -3637030385592082470
+    second: ShopUI_20
+  - first:
+      213: 8486558343914111988
+    second: ShopUI_21
+  - first:
+      213: 5085022983756265003
+    second: ShopUI_22
+  - first:
+      213: -7515141932653603691
+    second: ShopUI_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShopUI_6
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 993
+        width: 360
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275ba5c22057be9d0800000000000000
+      internalID: -6455431160414833277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUI_9
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 684
+        width: 405
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e728e003443228de0800000000000000
+      internalID: 558305639704569858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUI_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 288
+        width: 263
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229a99dd9073cc060800000000000000
+      internalID: -4371546825563899401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUI_16
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 402
+        width: 206
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af93ec21ea9057d0800000000000000
+      internalID: -6156404456921826687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUI_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 965
+        width: 246
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d40c1ad4b98c200800000000000000
+      internalID: 200580941146508621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUI_1
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 992
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b420a06f839f4c0800000000000000
+      internalID: -4253305743693690054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUI_2
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 839
+        width: 308
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c061d6941bde4ca30800000000000000
+      internalID: -4847177833844189951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUI_3
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 119
+        width: 665
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aacc326219a250d0800000000000000
+      internalID: -3435497669307610455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUI_5
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 128
+        width: 537
+        height: 1041
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104d118de2a8f2f70800000000000000
+      internalID: 5416876044567424710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUI_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 734
+        width: 240
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d0f581ad61969b0800000000000000
+      internalID: -5086509178170700530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUI_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 483
+        width: 209
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc78819fc48efd60800000000000000
+      internalID: 7925918421253389508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUI_13
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 563
+        width: 505
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c955c7cc265160d0800000000000000
+      internalID: -3431366690749457976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUI_17
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 402
+        width: 206
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88379877477cde60800000000000000
+      internalID: 6536313787117996285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUI_18
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 276
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d7598d3c34177f0800000000000000
+      internalID: -6566481390618488810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUI_19
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 276
+        width: 45
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8090fca34cfdfbce0800000000000000
+      internalID: -4739242604632139376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopUI_20
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 295
+        width: 83
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf5b75522ca68dc0800000000000000
+      internalID: 8214833493548798761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ShopUI_1: -4253305743693690054
+      ShopUI_2: -4847177833844189951
+      ShopUI_12: 7925918421253389508
+      ShopUI_19: -4739242604632139376
+      ShopUI_15: -4371546825563899401
+      ShopUI_18: -6566481390618488810
+      ShopUI_16: -6156404456921826687
+      ShopUI_0: 200580941146508621
+      ShopUI_8: -5086509178170700530
+      ShopUI_13: -3431366690749457976
+      ShopUI_6: -6455431160414833277
+      ShopUI_3: -3435497669307610455
+      ShopUI_9: 558305639704569858
+      ShopUI_20: 8214833493548798761
+      ShopUI_5: 5416876044567424710
+      ShopUI_17: 6536313787117996285
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,434 @@
+fileFormatVersion: 2
+guid: 097c833447ef582429bf3be01e6843a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5609693658850731064
+    second: SpiderZombie_0
+  - first:
+      213: 3626672556077542921
+    second: SpiderZombie_1
+  - first:
+      213: -1374443490191587990
+    second: SpiderZombie_2
+  - first:
+      213: -7128320965273640340
+    second: SpiderZombie_3
+  - first:
+      213: -217910195984719998
+    second: SpiderZombie_4
+  - first:
+      213: 6131804486740630942
+    second: SpiderZombie_5
+  - first:
+      213: -386786511538730482
+    second: SpiderZombie_6
+  - first:
+      213: -6523318197597165412
+    second: SpiderZombie_7
+  - first:
+      213: -3489859875070717405
+    second: SpiderZombie_8
+  - first:
+      213: 7509731488388339188
+    second: SpiderZombie_9
+  - first:
+      213: -4910904306238007903
+    second: SpiderZombie_10
+  - first:
+      213: -4893569824262321767
+    second: SpiderZombie_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpiderZombie_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2032
+        width: 106.09375
+        height: 111.1001
+      alignment: 9
+      pivot: {x: 0.47130993, y: 0.2989764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd909b467c184b1428066f49e7709371
+      internalID: 5609693658850731064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiderZombie_1
+      rect:
+        serializedVersion: 2
+        x: 158.99998
+        y: 1809.9999
+        width: 108.56642
+        height: 296.87097
+      alignment: 9
+      pivot: {x: 0.49290603, y: 0.4985339}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6c7e437b7c4804989a6df63f4179bc
+      internalID: 3626672556077542921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiderZombie_2
+      rect:
+        serializedVersion: 2
+        x: 1376.0502
+        y: 1032.3573
+        width: 78.24255
+        height: 309.50867
+      alignment: 9
+      pivot: {x: 0.5116988, y: 0.5093321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ec0e7d360c3dc47af11cd421b2f022
+      internalID: -1374443490191587990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiderZombie_3
+      rect:
+        serializedVersion: 2
+        x: 351.35284
+        y: 1760.9652
+        width: 181.86987
+        height: 94.671265
+      alignment: 9
+      pivot: {x: 0.49031833, y: 0.4915408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cbf85680d5d1849b37dc5183a68feb
+      internalID: -7128320965273640340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiderZombie_4
+      rect:
+        serializedVersion: 2
+        x: 566.5418
+        y: 1680.5817
+        width: 165.44122
+        height: 127.52869
+      alignment: 9
+      pivot: {x: 0.49260953, y: 0.5012065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1378c5d791ae0e245b4445dc1bc6e1e3
+      internalID: -217910195984719998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiderZombie_5
+      rect:
+        serializedVersion: 2
+        x: 1001.1291
+        y: 1360.211
+        width: 114.891174
+        height: 274.12366
+      alignment: 9
+      pivot: {x: 0.49121028, y: 0.48441255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0688c56b86c5d3f48a9c6b2e665c5fa2
+      internalID: 6131804486740630942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiderZombie_6
+      rect:
+        serializedVersion: 2
+        x: 755.73895
+        y: 1596.5166
+        width: 209.67236
+        height: 128.79248
+      alignment: 9
+      pivot: {x: 0.49989286, y: 0.4890301}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a1e3baf01115b499dc0bcb31216fbb
+      internalID: -386786511538730482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiderZombie_7
+      rect:
+        serializedVersion: 2
+        x: 1173.9435
+        y: 1280.3066
+        width: 112.36365
+        height: 136.37488
+      alignment: 9
+      pivot: {x: 0.5040061, y: 0.49637705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83108531c4a3a154dacca2fc19f26d97
+      internalID: -6523318197597165412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiderZombie_8
+      rect:
+        serializedVersion: 2
+        x: 1508.6365
+        y: 927.77625
+        width: 171.76001
+        height: 155.33118
+      alignment: 9
+      pivot: {x: 0.5004733, y: 0.49715555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da499e7c44579d40b5a40d559751485
+      internalID: -3489859875070717405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiderZombie_9
+      rect:
+        serializedVersion: 2
+        x: 1750.5537
+        y: 683.6796
+        width: 131.31982
+        height: 290.55237
+      alignment: 9
+      pivot: {x: 0.49160415, y: 0.50015205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d8f6a66c35ee349835afc65e998c0b
+      internalID: 7509731488388339188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiderZombie_10
+      rect:
+        serializedVersion: 2
+        x: 1996.9126
+        y: 40.847706
+        width: 274.12354
+        height: 682.31464
+      alignment: 9
+      pivot: {x: 0.498746, y: 0.49925983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61b5aa80adb9da4a90bf7d52886c376
+      internalID: -4910904306238007903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiderZombie_11
+      rect:
+        serializedVersion: 2
+        x: 2372.6394
+        y: 0
+        width: 215.3606
+        height: 660.85846
+      alignment: 9
+      pivot: {x: 0.5085085, y: 0.4955676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf890cd1a2c3d7489208a29b4f7946e
+      internalID: -4893569824262321767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpiderZombie_2: -1374443490191587990
+      SpiderZombie_10: -4910904306238007903
+      SpiderZombie_7: -6523318197597165412
+      SpiderZombie_8: -3489859875070717405
+      SpiderZombie_0: 5609693658850731064
+      SpiderZombie_9: 7509731488388339188
+      SpiderZombie_5: 6131804486740630942
+      SpiderZombie_3: -7128320965273640340
+      SpiderZombie_4: -217910195984719998
+      SpiderZombie_1: 3626672556077542921
+      SpiderZombie_6: -386786511538730482
+      SpiderZombie_11: -4893569824262321767
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 637168950808490455
+  assetBundleName: 
+  assetBundleVariant: 

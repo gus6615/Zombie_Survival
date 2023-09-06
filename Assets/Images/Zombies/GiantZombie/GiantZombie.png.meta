@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: b39124ef9b9ec884c961cb94cbcb9a45
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2331234845033429331
+    second: GiantZombie_0
+  - first:
+      213: -4884095071913472371
+    second: GiantZombie_1
+  - first:
+      213: 6488019335141231638
+    second: GiantZombie_2
+  - first:
+      213: -4301417149950433471
+    second: GiantZombie_3
+  - first:
+      213: 752495759193439634
+    second: GiantZombie_4
+  - first:
+      213: -2503980973856595659
+    second: GiantZombie_5
+  - first:
+      213: -4984597113523611685
+    second: GiantZombie_6
+  - first:
+      213: 4339629037165336774
+    second: GiantZombie_7
+  - first:
+      213: 815791014790103204
+    second: GiantZombie_8
+  - first:
+      213: 4467337703252065836
+    second: GiantZombie_9
+  - first:
+      213: -1572360529469997832
+    second: GiantZombie_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GiantZombie_0
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 581
+        width: 140
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc8434381d6c924d91d6a2eff8b197f
+      internalID: -2331234845033429331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantZombie_1
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 473.00003
+        width: 132
+        height: 199.99997
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670475658a3c42249971ff674b7fc12e
+      internalID: -4884095071913472371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantZombie_2
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 456
+        width: 54
+        height: 180
+      alignment: 9
+      pivot: {x: 0.49074075, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedcabe17b63a7e48b6aa57e3d093616
+      internalID: 6488019335141231638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantZombie_3
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 434.00003
+        width: 75
+        height: 140.99997
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8526690cd554f6042b4b42448a6c91b4
+      internalID: -4301417149950433471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantZombie_4
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 355
+        width: 373
+        height: 186
+      alignment: 9
+      pivot: {x: 0.505362, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12032905c01333f458967b8a1199a984
+      internalID: 752495759193439634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantZombie_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177.49998
+        width: 174
+        height: 169.00002
+      alignment: 9
+      pivot: {x: 0.47988504, y: 0.48816574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d75e4589c7c61945abbea69e9e9da75
+      internalID: -2503980973856595659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantZombie_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 159
+        width: 104
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc464256f5b7e7469308146de0b45be
+      internalID: -4984597113523611685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantZombie_7
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 69
+        width: 93
+        height: 182
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35d700b84a1f0647b5ceab2a914bca5
+      internalID: 4339629037165336774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantZombie_8
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 46
+        width: 65
+        height: 168
+      alignment: 9
+      pivot: {x: 0.4923077, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6167d9ef8cc13c54e8c54fc17642dc6a
+      internalID: 815791014790103204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantZombie_9
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 0
+        width: 99
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4867021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bca323468b707c4a92ad399fd9890c7
+      internalID: 4467337703252065836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiantZombie_10
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 0
+        width: 103
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49056602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb91f460443060a49af7dc028e8f4509
+      internalID: -1572360529469997832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GiantZombie_6: -4984597113523611685
+      GiantZombie_1: -4884095071913472371
+      GiantZombie_4: 752495759193439634
+      GiantZombie_8: 815791014790103204
+      GiantZombie_5: -2503980973856595659
+      GiantZombie_3: -4301417149950433471
+      GiantZombie_0: -2331234845033429331
+      GiantZombie_10: -1572360529469997832
+      GiantZombie_9: 4467337703252065836
+      GiantZombie_2: 6488019335141231638
+      GiantZombie_7: 4339629037165336774
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 637124012038054369
+  assetBundleName: 
+  assetBundleVariant: 

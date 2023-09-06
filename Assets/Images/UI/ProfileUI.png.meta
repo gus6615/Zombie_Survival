@@ -1,0 +1,408 @@
+fileFormatVersion: 2
+guid: 0ef937b27699af143bfdb842efe56f87
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5875919162124269084
+    second: ProfileUI_0
+  - first:
+      213: -3717923038891315162
+    second: ProfileUI_1
+  - first:
+      213: -8033079669131075818
+    second: ProfileUI_2
+  - first:
+      213: -6689321592685187495
+    second: ProfileUI_3
+  - first:
+      213: -8466197921184160627
+    second: ProfileUI_4
+  - first:
+      213: -5243896085605325841
+    second: ProfileUI_5
+  - first:
+      213: 9071225243623242545
+    second: ProfileUI_6
+  - first:
+      213: 3145771628082353760
+    second: ProfileUI_7
+  - first:
+      213: 7851013718765792598
+    second: ProfileUI_8
+  - first:
+      213: -5585603736288127837
+    second: ProfileUI_9
+  - first:
+      213: -5547679992695199737
+    second: ProfileUI_1
+  - first:
+      213: -5797708722666023046
+    second: ProfileUI_2
+  - first:
+      213: 5222307567361022619
+    second: ProfileUI_3
+  - first:
+      213: -5291218932382806291
+    second: ProfileUI_5
+  - first:
+      213: 4359117271660819629
+    second: ProfileUI_6
+  - first:
+      213: -8414350778393344176
+    second: ProfileUI_7
+  - first:
+      213: 703713771741880665
+    second: ProfileUI_8
+  - first:
+      213: -7079788414089729258
+    second: ProfileUI_9
+  - first:
+      213: 3549285114869258908
+    second: ProfileUI_10
+  - first:
+      213: -9170728833382317214
+    second: ProfileUI_0
+  - first:
+      213: -3996517095508846816
+    second: ProfileUI_4
+  - first:
+      213: -4710080082828609879
+    second: ProfileUI_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ProfileUI_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 979
+        width: 1922
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7086cd3807ea203b0800000000000000
+      internalID: -3717923038891315162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfileUI_2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 851
+        width: 228
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77de4262a66a8fa0800000000000000
+      internalID: -8033079669131075818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfileUI_3
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 129
+        width: 1506
+        height: 827
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a5364401d597840800000000000000
+      internalID: -6689321592685187495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfileUI_5
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 399
+        width: 5
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee40824a60d196b0800000000000000
+      internalID: -5243896085605325841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfileUI_6
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 749
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4fc9f1012be7c30800000000000000
+      internalID: 9071225243623242545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfileUI_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 164
+        width: 206
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05745565c883a3b80800000000000000
+      internalID: 3145771628082353760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfileUI_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 8
+        width: 161
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b614d92f98fbd90800000000000000
+      internalID: -5585603736288127837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfileUI_0
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1052
+        width: 308
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26380d2f6b60bb080800000000000000
+      internalID: 5875919162124269084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfileUI_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 400
+        width: 153
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0275b6740e48988c0800000000000000
+      internalID: -8466197921184160627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfileUI_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 8
+        width: 406
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6bb57ae1f62aeb0800000000000000
+      internalID: 3549285114869258908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ProfileUI_2: -8033079669131075818
+      ProfileUI_6: 9071225243623242545
+      ProfileUI_0: 5875919162124269084
+      ProfileUI_9: -5585603736288127837
+      ProfileUI_10: 3549285114869258908
+      ProfileUI_1: -3717923038891315162
+      ProfileUI_4: -8466197921184160627
+      ProfileUI_3: -6689321592685187495
+      ProfileUI_7: 3145771628082353760
+      ProfileUI_5: -5243896085605325841
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

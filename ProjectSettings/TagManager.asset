@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Head
+  - Body
+  - Zombie
+  - Block
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Map
+  - Character
+  - Blind
+  - Head
+  - Body
+  - Block
+  - Zombie
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Farrest
+    uniqueID: 3208179323
+    locked: 0
+  - name: Little_Farrest
+    uniqueID: 2796759939
+    locked: 0
+  - name: Player_Ground
+    uniqueID: 162305207
+    locked: 0
+  - name: Zombie
+    uniqueID: 3271403947
+    locked: 0
+  - name: Character
+    uniqueID: 431496939
+    locked: 0
+  - name: Player
+    uniqueID: 3534020861
+    locked: 0
+  - name: Little_Nearest
+    uniqueID: 541218865
+    locked: 0
+  - name: Nearest
+    uniqueID: 3776238765
+    locked: 0

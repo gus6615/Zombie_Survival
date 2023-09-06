@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0543fe805424df99fe08ce744cbe49, type: 3}
+  m_Name: Idle
+  m_EditorClassIdentifier: 
+  m_PoseEntries:
+  - path: Bones/Bone_LeftArm01
+    localPosition: {x: -3.0842907, y: 1.8422945, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.90858215, w: 0.41770637}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Bone_LeftArm01/Bone_LeftArm02
+    localPosition: {x: 1.48624, y: 0, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.16440324, w: 0.9863933}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Bone_RightArm01
+    localPosition: {x: -3.08473, y: 1.8425566, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.6851522, w: 0.72840005}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Bone_RightArm01/Bone_RightArm02
+    localPosition: {x: 1.5542212, y: 0.00000011920929, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.14642052, w: 0.98922247}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Bone_LeftLeg02
+    localPosition: {x: -3.7730114, y: 0.078910425, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.740804, w: 0.6717213}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Bone_LeftLeg02/Bone_LeftLeg02
+    localPosition: {x: 1.8479495, y: -0.00000011920929, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.059058852, w: 0.99825454}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Bone_RightLeg01
+    localPosition: {x: -3.7058165, y: 0.020702964, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.6098094, w: 0.7925482}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Bone_RightLeg01/Bone_RightLeg02
+    localPosition: {x: 1.8985391, y: 0.00000017881393, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.09242615, w: 0.9957196}
+    localScale: {x: 1, y: 1, z: 1}
